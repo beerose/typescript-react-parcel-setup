@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "dependencies": {
+    "@types/react": "^16.4.13",
+    "@types/react-dom": "^16.0.7",
+    "react": "^16.0.0",
+    "react-dom": "^16.10.2",
+    "tslib": "^1.10.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.2"
+  }
+}
